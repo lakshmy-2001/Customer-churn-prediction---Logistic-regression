@@ -112,11 +112,11 @@ The Logistic Regression model provides valuable insights into customer churn fac
 
 ### 🔎 Key Factors Influencing Churn
 
-- **Contract Type** – Customers on month-to-month contracts are significantly more likely to churn compared to those on long-term contracts.
-- **Tenure** – Customers with shorter tenure exhibit a higher probability of churn.
-- **Senior Citizen Status** – Senior customers show different churn behavior patterns.
-- **Tech Support Services** – Customers without tech support are more likely to leave.
-- **Internet Service Type** – Fiber optic users display higher churn risk compared to DSL users.
+- **Contract Type** - Customers on month-to-month contracts are significantly more likely to churn compared to those on long-term contracts.
+- **Tenure** - Customers with shorter tenure exhibit a higher probability of churn.
+- **Senior Citizen Status** - Senior customers show different churn behavior patterns.
+- **Tech Support Services** - Customers without tech support are more likely to leave.
+- **Internet Service Type** - Fiber optic users display higher churn risk compared to DSL users.
 
 ### 💡 Business Implications
 
