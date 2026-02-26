@@ -106,6 +106,14 @@ Dropped:
 
 Final Model AUC: **0.84**
 
+The improvements led to a measurable enhancement in overall model performance.
+
+- The increase in **AUC to 0.84** indicates strong discriminatory power, meaning the model effectively distinguishes between customers who churn and those who remain.
+- The higher **Pseudo R-squared (0.3054)** suggests an improved model fit compared to the initial version.
+- The consistent **accuracy (0.79)** demonstrates stable and reliable overall classification performance.
+
+These results confirm that the feature engineering and correlation-based feature selection contributed positively to model quality while maintaining model stability.
+
 ## 📌 Conclusion
 
 The Logistic Regression model provides valuable insights into customer churn factors in the telecommunications industry. With an AUC of **0.84**, the model demonstrates strong predictive performance and reliable discrimination between churned and retained customers.
